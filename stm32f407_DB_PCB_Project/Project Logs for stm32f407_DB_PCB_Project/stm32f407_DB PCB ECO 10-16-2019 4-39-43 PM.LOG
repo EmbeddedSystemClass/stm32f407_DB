@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=PB15 Pin=P3-17
+Removed Pin From Net: NetName=PB14 Pin=P3-18
+Removed Pin From Net: NetName=PB13 Pin=P3-19
+Removed Pin From Net: NetName=PB12 Pin=P3-20
+Removed Pin From Net: NetName=PB11 Pin=P3-21
+Removed Pin From Net: NetName=PB10 Pin=P3-22
+Removed Pin From Net: NetName=PB9 Pin=P3-23
+Removed Pin From Net: NetName=PB8 Pin=P3-24
+Removed Pin From Net: NetName=PB7 Pin=P3-25
+Removed Pin From Net: NetName=PB6 Pin=P3-26
+Removed Pin From Net: NetName=PB5 Pin=P3-27
+Removed Pin From Net: NetName=PB4 Pin=P3-28
+Removed Pin From Net: NetName=PB3 Pin=P3-29
+Removed Pin From Net: NetName=PB2 Pin=P3-30
+Removed Pin From Net: NetName=PB1 Pin=P3-31
+Removed Pin From Net: NetName=PB0 Pin=P3-32
+Removed Pin From Net: NetName=PC0 Pin=P4-1
+Removed Pin From Net: NetName=PC1 Pin=P4-2
+Removed Pin From Net: NetName=PC2 Pin=P4-3
+Removed Pin From Net: NetName=PC3 Pin=P4-4
+Removed Pin From Net: NetName=PC4 Pin=P4-5
+Removed Pin From Net: NetName=PC5 Pin=P4-6
+Removed Pin From Net: NetName=PC6 Pin=P4-7
+Removed Pin From Net: NetName=PC7 Pin=P4-8
+Removed Pin From Net: NetName=PC8 Pin=P4-9
+Removed Pin From Net: NetName=PC9 Pin=P4-10
+Removed Pin From Net: NetName=PC10 Pin=P4-11
+Removed Pin From Net: NetName=PC11 Pin=P4-12
+Removed Pin From Net: NetName=PC12 Pin=P4-13
+Removed Pin From Net: NetName=PC13 Pin=P4-14
+Removed Pin From Net: NetName=PC14 Pin=P4-15
+Removed Pin From Net: NetName=PC15 Pin=P4-16
+Added Component: Designator=C26(Cap-0603)
+Added Component: Designator=C27(Cap-0603)
+Added Component: Designator=C28(Cap-0603)
+Added Component: Designator=D1(SOD-523)
+Added Component: Designator=R6(Res-0603)
+Added Component: Designator=USB1(USB-MICRO-SMD_C)
+Added Component: Designator=X2(OSC HC-49SMD)
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=PC15 Pin=P3-17
+Added Pin To Net: NetName=PC14 Pin=P3-18
+Added Pin To Net: NetName=PC13 Pin=P3-19
+Added Pin To Net: NetName=PC12 Pin=P3-20
+Added Pin To Net: NetName=PC11 Pin=P3-21
+Added Pin To Net: NetName=PC10 Pin=P3-22
+Added Pin To Net: NetName=PC9 Pin=P3-23
+Added Pin To Net: NetName=PC8 Pin=P3-24
+Added Pin To Net: NetName=PC7 Pin=P3-25
+Added Pin To Net: NetName=PC6 Pin=P3-26
+Added Pin To Net: NetName=PC5 Pin=P3-27
+Added Pin To Net: NetName=PC4 Pin=P3-28
+Added Pin To Net: NetName=PC3 Pin=P3-29
+Added Pin To Net: NetName=PC2 Pin=P3-30
+Added Pin To Net: NetName=PC1 Pin=P3-31
+Added Pin To Net: NetName=PC0 Pin=P3-32
+Added Pin To Net: NetName=PB0 Pin=P4-1
+Added Pin To Net: NetName=PB1 Pin=P4-2
+Added Pin To Net: NetName=PB2 Pin=P4-3
+Added Pin To Net: NetName=PB3 Pin=P4-4
+Added Pin To Net: NetName=PB4 Pin=P4-5
+Added Pin To Net: NetName=PB5 Pin=P4-6
+Added Pin To Net: NetName=PB6 Pin=P4-7
+Added Pin To Net: NetName=PB7 Pin=P4-8
+Added Pin To Net: NetName=PB8 Pin=P4-9
+Added Pin To Net: NetName=PB9 Pin=P4-10
+Added Pin To Net: NetName=PB10 Pin=P4-11
+Added Pin To Net: NetName=PB11 Pin=P4-12
+Added Pin To Net: NetName=PB12 Pin=P4-13
+Added Pin To Net: NetName=PB13 Pin=P4-14
+Added Pin To Net: NetName=PB14 Pin=P4-15
+Added Pin To Net: NetName=PB15 Pin=P4-16
+Added Pin To Net: NetName=VCC Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=RXD Pin=D1-A
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=R6-1
+Added Net: Name=TXD
+Added Pin To Net: NetName=USB_N Pin=USB1-2
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=USB1-3
+Added Net: Name=USB_P
+Added Pin To Net: NetName=X_N Pin=C26-1
+Added Pin To Net: NetName=X_N Pin=X2-1
+Added Net: Name=X_N
+Added Pin To Net: NetName=X_P Pin=C27-1
+Added Pin To Net: NetName=X_P Pin=X2-2
+Added Net: Name=X_P
+Added Differential Pair: Name=USB
+Added Differential Pair: Name=X
+Added Member To Class: ClassName=Minimum_MCU_sys Member=Component C26 22pf
+Added Member To Class: ClassName=Minimum_MCU_sys Member=Component C27 22pf
+Added Member To Class: ClassName=Minimum_MCU_sys Member=Component C28 0.01uf
+Added Member To Class: ClassName=Minimum_MCU_sys Member=Component D1 DIODE
+Added Member To Class: ClassName=Minimum_MCU_sys Member=Component R6 470R
+Added Member To Class: ClassName=Minimum_MCU_sys Member=Component USB1 USB-MICRO
+Added Member To Class: ClassName=Minimum_MCU_sys Member=Component X2 12M
+Added Room: Name=Minimum_MCU_sys
