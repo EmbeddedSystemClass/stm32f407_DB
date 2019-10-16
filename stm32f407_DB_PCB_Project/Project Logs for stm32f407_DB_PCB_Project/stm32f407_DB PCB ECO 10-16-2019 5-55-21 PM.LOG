@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=JTMS Pin=P3-14
+Added Pin To Net: NetName=JTCK Pin=P3-15
+Added Pin To Net: NetName=JTMS Pin=U1-72
+Added Pin To Net: NetName=JTCK Pin=U1-76
+Added Room: Name=Minimum_MCU_sys
