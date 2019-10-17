@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=PE0 Pin=P3-17
+Removed Pin From Net: NetName=PB9 Pin=P3-18
+Removed Pin From Net: NetName=PB8 Pin=P3-19
+Removed Pin From Net: NetName=PB7 Pin=P3-20
+Removed Pin From Net: NetName=PB6 Pin=P3-21
+Removed Pin From Net: NetName=PB5 Pin=P3-22
+Removed Pin From Net: NetName=PB4 Pin=P3-23
+Removed Pin From Net: NetName=PB3 Pin=P3-24
+Removed Pin From Net: NetName=PD7 Pin=P3-25
+Removed Pin From Net: NetName=PD6 Pin=P3-26
+Removed Pin From Net: NetName=PD5 Pin=P3-27
+Removed Pin From Net: NetName=PD4 Pin=P3-28
+Added Pin To Net: NetName=PD4 Pin=P3-17
+Added Pin To Net: NetName=PD5 Pin=P3-18
+Added Pin To Net: NetName=PD6 Pin=P3-19
+Added Pin To Net: NetName=PD7 Pin=P3-20
+Added Pin To Net: NetName=PB3 Pin=P3-21
+Added Pin To Net: NetName=PB4 Pin=P3-22
+Added Pin To Net: NetName=PB5 Pin=P3-23
+Added Pin To Net: NetName=PB6 Pin=P3-24
+Added Pin To Net: NetName=PB7 Pin=P3-25
+Added Pin To Net: NetName=PB8 Pin=P3-26
+Added Pin To Net: NetName=PB9 Pin=P3-27
+Added Pin To Net: NetName=PE0 Pin=P3-28
+Added Room: Name=Minimum_MCU_sys
